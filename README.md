@@ -339,6 +339,6 @@ Global total time: 00:00:39 (39.2 sec), executed benchmarks: 2
 // * Artifacts cleanup *
 Artifacts cleanup is finished
 
-````
 C:\Users\s_irv\source\repos\JsonBenchmark\JsonBenchmark\JsonBenchmark\bin\Release\net9.0\JsonBenchmark.exe (process 2716) exited with code 0 (0x0).
 Press any key to close this window . . .
+````
